@@ -1,6 +1,6 @@
 # Chagos Archipelago Autonomous Reef Monitoring Structure (ARMS) Scripts
 This repository contains R scripts used in Masters of Research (MRes) thesis at Imperial College London, August 2025.
-Running the full script with the data (not available publically) will allow for full replications of my maps, plots and statistical outputs.
+Running the full script with the data (not available publicly) will allow for full replications of my maps, plots and statistical outputs.
 
 **Project title:** Spatiotemporal patterns in Indo-Pacific reef cryptobenthic communities using image analysis and computer vision
 
