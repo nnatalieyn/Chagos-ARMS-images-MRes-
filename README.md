@@ -11,4 +11,4 @@ Running the full script with the data (not available publicly) will allow for fu
 
 ``R_script_motile.R`` : Include plot and statistical output code for the motile assemblage
 
-``R_script_sessile.R`` : Include plot and statistical output for the sessile assemblage
+``R_script_sessile.R`` : Include plot and statistical output code for the sessile assemblage
